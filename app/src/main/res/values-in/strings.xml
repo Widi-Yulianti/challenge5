@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Movie Catalog</string>
+    <string name="login">Masuk</string>
+    <string name="register">Daftar</string>
+    <string name="update">Perbarui</string>
+    <string name="logout">Keluar</string>
+
+</resources>
